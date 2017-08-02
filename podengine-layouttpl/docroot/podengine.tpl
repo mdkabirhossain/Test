@@ -6,7 +6,7 @@
 	</div>
 	<div class="border-ntop"></div>
 
-	<div class="portlet-layout row-fluid hum-tum"> 
+	<div class="portlet-layout row-fluid hum-tum-kamare-me-bandh-hogaye"> 
 		<!-- <div class="span2"> </div> -->
 			<div class="portlet-column portlet-column-first span12" id="column-2">
 			<div class="text-center blog-layout"><h4>BLOGS</h4></div>
